@@ -11,3 +11,7 @@ seefollowrequests(): outputs a list of follow request users as self.requests
 writeuserlist(self.requests): writes a list of request users into a created excel file usersheet.xlsx
 
 readuserlist(): reads a list of users from the excel file usersheet.xlsx
+
+# prereqs:
+selenium
+pandas
