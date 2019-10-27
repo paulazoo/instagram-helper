@@ -14,4 +14,5 @@ readuserlist(): reads a list of users from the excel file usersheet.xlsx
 
 # prereqs:
 selenium
+
 pandas
